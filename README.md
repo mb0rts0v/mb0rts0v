@@ -1,5 +1,5 @@
 ## Hi there 👋
-[Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mb0rts0v&theme=dark&show_icons=true) 
+![Maksym's GitHub stats](https://github-readme-stats.vercel.app/api?username=mb0rts0v&theme=dark&show_icons=true) 
 <!--
 **mb0rts0v/mb0rts0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
